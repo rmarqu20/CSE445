@@ -1,0 +1,10 @@
+C:\Users\Richard\source\repos\WCFWeatherServiceWebApp\bin\WCFWeatherServiceWebApp.dll.config
+C:\Users\Richard\source\repos\WCFWeatherServiceWebApp\bin\WCFWeatherServiceWebApp.dll
+C:\Users\Richard\source\repos\WCFWeatherServiceWebApp\bin\WCFWeatherServiceWebApp.pdb
+C:\Users\Richard\source\repos\WCFWeatherServiceWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Richard\source\repos\WCFWeatherServiceWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Richard\source\repos\WCFWeatherServiceWebApp\obj\Debug\WCFWeatherServiceWebApp.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\WCFWeatherServiceWebApp\obj\Debug\WCFWeatherServiceWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\WCFWeatherServiceWebApp\obj\Debug\WCFWeatherServiceWebApp.csproj.CopyComplete
+C:\Users\Richard\source\repos\WCFWeatherServiceWebApp\obj\Debug\WCFWeatherServiceWebApp.dll
+C:\Users\Richard\source\repos\WCFWeatherServiceWebApp\obj\Debug\WCFWeatherServiceWebApp.pdb

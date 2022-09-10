@@ -1,0 +1,10 @@
+C:\Users\Richard\source\repos\WCFSportsServiceWebApp\bin\WCFSportsServiceWebApp.dll.config
+C:\Users\Richard\source\repos\WCFSportsServiceWebApp\bin\WCFSportsServiceWebApp.dll
+C:\Users\Richard\source\repos\WCFSportsServiceWebApp\bin\WCFSportsServiceWebApp.pdb
+C:\Users\Richard\source\repos\WCFSportsServiceWebApp\bin\Newtonsoft.Json.dll
+C:\Users\Richard\source\repos\WCFSportsServiceWebApp\bin\Newtonsoft.Json.xml
+C:\Users\Richard\source\repos\WCFSportsServiceWebApp\obj\Debug\WCFSportsServiceWebApp.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\WCFSportsServiceWebApp\obj\Debug\WCFSportsServiceWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\WCFSportsServiceWebApp\obj\Debug\WCFSportsServiceWebApp.csproj.CopyComplete
+C:\Users\Richard\source\repos\WCFSportsServiceWebApp\obj\Debug\WCFSportsServiceWebApp.dll
+C:\Users\Richard\source\repos\WCFSportsServiceWebApp\obj\Debug\WCFSportsServiceWebApp.pdb

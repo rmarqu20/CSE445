@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcce0b33-b075-46fd-b9fa-b855e3c6ed57": {
+      "ProjectGuid": "fcce0b33-b075-46fd-b9fa-b855e3c6ed57",
+      "DisplayName": "WCFWeatherServiceWebApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

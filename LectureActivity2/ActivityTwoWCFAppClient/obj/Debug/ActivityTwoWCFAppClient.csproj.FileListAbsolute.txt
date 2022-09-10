@@ -1,0 +1,6 @@
+C:\Users\Richard\source\repos\ActivityTwoWCFAppClient\bin\ActivityTwoWCFAppClient.dll.config
+C:\Users\Richard\source\repos\ActivityTwoWCFAppClient\bin\ActivityTwoWCFAppClient.dll
+C:\Users\Richard\source\repos\ActivityTwoWCFAppClient\bin\ActivityTwoWCFAppClient.pdb
+C:\Users\Richard\source\repos\ActivityTwoWCFAppClient\obj\Debug\ActivityTwoWCFAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\ActivityTwoWCFAppClient\obj\Debug\ActivityTwoWCFAppClient.dll
+C:\Users\Richard\source\repos\ActivityTwoWCFAppClient\obj\Debug\ActivityTwoWCFAppClient.pdb

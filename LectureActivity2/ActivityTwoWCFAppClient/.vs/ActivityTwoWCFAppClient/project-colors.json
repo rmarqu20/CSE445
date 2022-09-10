@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c073f82d-5ab4-46a4-b28c-8d6b686487fc": {
+      "ProjectGuid": "c073f82d-5ab4-46a4-b28c-8d6b686487fc",
+      "DisplayName": "ActivityTwoWCFAppClient",
+      "ColorIndex": 0
+    },
+    "c9393543-bc22-4fa6-a3c6-b27842eeaa70": {
+      "ProjectGuid": "c9393543-bc22-4fa6-a3c6-b27842eeaa70",
+      "DisplayName": "ActivityTwoConsoleAppClient",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

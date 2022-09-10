@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c5e7e3a-be95-47fb-a4fb-0ccb484baf41": {
+      "ProjectGuid": "0c5e7e3a-be95-47fb-a4fb-0ccb484baf41",
+      "DisplayName": "activityOneClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

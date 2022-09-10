@@ -1,0 +1,15 @@
+C:\Users\Richard\source\repos\activityOneClient\bin\Debug\activityOneClient.exe.config
+C:\Users\Richard\source\repos\activityOneClient\bin\Debug\activityOneClient.exe
+C:\Users\Richard\source\repos\activityOneClient\bin\Debug\activityOneClient.pdb
+C:\Users\Richard\source\repos\activityOneClient\obj\Debug\activityOneClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Richard\source\repos\activityOneClient\obj\Debug\activityOneClient.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\activityOneClient\obj\Debug\activityOneClient.exe
+C:\Users\Richard\source\repos\activityOneClient\obj\Debug\activityOneClient.pdb
+C:\Users\Richard\source\repos\LectureActivity1\bin\Debug\activityOneClient.exe.config
+C:\Users\Richard\source\repos\LectureActivity1\bin\Debug\activityOneClient.exe
+C:\Users\Richard\source\repos\LectureActivity1\bin\Debug\activityOneClient.pdb
+C:\Users\Richard\source\repos\LectureActivity1\obj\Debug\activityOneClient.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\LectureActivity1\obj\Debug\activityOneClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Richard\source\repos\LectureActivity1\obj\Debug\activityOneClient.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\LectureActivity1\obj\Debug\activityOneClient.exe
+C:\Users\Richard\source\repos\LectureActivity1\obj\Debug\activityOneClient.pdb

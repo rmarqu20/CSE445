@@ -1,0 +1,7 @@
+C:\Users\Richard\source\repos\LectureActivity5\bin\LectureActivity5.dll.config
+C:\Users\Richard\source\repos\LectureActivity5\bin\LectureActivity5.dll
+C:\Users\Richard\source\repos\LectureActivity5\bin\LectureActivity5.pdb
+C:\Users\Richard\source\repos\LectureActivity5\obj\Debug\LectureActivity5.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\LectureActivity5\obj\Debug\LectureActivity5.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\LectureActivity5\obj\Debug\LectureActivity5.dll
+C:\Users\Richard\source\repos\LectureActivity5\obj\Debug\LectureActivity5.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a45f5c9-9f09-4335-94be-22607da2d9b5": {
+      "ProjectGuid": "3a45f5c9-9f09-4335-94be-22607da2d9b5",
+      "DisplayName": "Part1WCFServiceApp",
+      "ColorIndex": 0
+    },
+    "e5297d5d-850e-4f57-a92c-28df5e830b90": {
+      "ProjectGuid": "e5297d5d-850e-4f57-a92c-28df5e830b90",
+      "DisplayName": "Part1WindowsFormApp",
+      "ColorIndex": 1
+    },
+    "074fc576-f6db-4677-85c2-85c5003c485c": {
+      "ProjectGuid": "074fc576-f6db-4677-85c2-85c5003c485c",
+      "DisplayName": "Part1WebApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

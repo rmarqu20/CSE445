@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73fe96f3-f5a4-45ee-b6d3-1b191556205f": {
+      "ProjectGuid": "73fe96f3-f5a4-45ee-b6d3-1b191556205f",
+      "DisplayName": "mathClient",
+      "ColorIndex": 0
+    },
+    "018d209f-0c01-4f56-9b84-bdd79d82934b": {
+      "ProjectGuid": "018d209f-0c01-4f56-9b84-bdd79d82934b",
+      "DisplayName": "mathSOAPServiceWebClient",
+      "ColorIndex": 1
+    },
+    "24f4d16a-4d38-445e-aa55-e3551e49dc31": {
+      "ProjectGuid": "24f4d16a-4d38-445e-aa55-e3551e49dc31",
+      "DisplayName": "WindowsFormsSOAPClient",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

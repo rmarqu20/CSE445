@@ -1,0 +1,17 @@
+C:\Users\Richard\source\repos\LectureActivity6\bin\Debug\net6.0\LectureActivity6.exe
+C:\Users\Richard\source\repos\LectureActivity6\bin\Debug\net6.0\LectureActivity6.deps.json
+C:\Users\Richard\source\repos\LectureActivity6\bin\Debug\net6.0\LectureActivity6.runtimeconfig.json
+C:\Users\Richard\source\repos\LectureActivity6\bin\Debug\net6.0\LectureActivity6.dll
+C:\Users\Richard\source\repos\LectureActivity6\bin\Debug\net6.0\ref\LectureActivity6.dll
+C:\Users\Richard\source\repos\LectureActivity6\bin\Debug\net6.0\LectureActivity6.pdb
+C:\Users\Richard\source\repos\LectureActivity6\obj\Debug\net6.0\LectureActivity6.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\LectureActivity6\obj\Debug\net6.0\LectureActivity6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\source\repos\LectureActivity6\obj\Debug\net6.0\LectureActivity6.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\LectureActivity6\obj\Debug\net6.0\LectureActivity6.AssemblyInfo.cs
+C:\Users\Richard\source\repos\LectureActivity6\obj\Debug\net6.0\LectureActivity6.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\LectureActivity6\obj\Debug\net6.0\LectureActivity6.dll
+C:\Users\Richard\source\repos\LectureActivity6\obj\Debug\net6.0\ref\LectureActivity6.dll
+C:\Users\Richard\source\repos\LectureActivity6\obj\Debug\net6.0\LectureActivity6.pdb
+C:\Users\Richard\source\repos\LectureActivity6\obj\Debug\net6.0\LectureActivity6.genruntimeconfig.cache
+C:\Users\Richard\source\repos\LectureActivity6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Richard\source\repos\LectureActivity6\obj\Debug\net6.0\LectureActivity6.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Richard\source\repos\LectureActivity4\bin\Debug\net6.0\LectureActivity4.exe
+C:\Users\Richard\source\repos\LectureActivity4\bin\Debug\net6.0\LectureActivity4.deps.json
+C:\Users\Richard\source\repos\LectureActivity4\bin\Debug\net6.0\LectureActivity4.runtimeconfig.json
+C:\Users\Richard\source\repos\LectureActivity4\bin\Debug\net6.0\LectureActivity4.dll
+C:\Users\Richard\source\repos\LectureActivity4\bin\Debug\net6.0\ref\LectureActivity4.dll
+C:\Users\Richard\source\repos\LectureActivity4\bin\Debug\net6.0\LectureActivity4.pdb
+C:\Users\Richard\source\repos\LectureActivity4\obj\Debug\net6.0\LectureActivity4.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\LectureActivity4\obj\Debug\net6.0\LectureActivity4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\source\repos\LectureActivity4\obj\Debug\net6.0\LectureActivity4.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\LectureActivity4\obj\Debug\net6.0\LectureActivity4.AssemblyInfo.cs
+C:\Users\Richard\source\repos\LectureActivity4\obj\Debug\net6.0\LectureActivity4.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\LectureActivity4\obj\Debug\net6.0\LectureActivity4.dll
+C:\Users\Richard\source\repos\LectureActivity4\obj\Debug\net6.0\ref\LectureActivity4.dll
+C:\Users\Richard\source\repos\LectureActivity4\obj\Debug\net6.0\LectureActivity4.pdb
+C:\Users\Richard\source\repos\LectureActivity4\obj\Debug\net6.0\LectureActivity4.genruntimeconfig.cache

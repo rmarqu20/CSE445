@@ -1,0 +1,7 @@
+C:\Users\Richard\source\repos\mathClient\bin\Debug\mathClient.exe.config
+C:\Users\Richard\source\repos\mathClient\bin\Debug\mathClient.exe
+C:\Users\Richard\source\repos\mathClient\bin\Debug\mathClient.pdb
+C:\Users\Richard\source\repos\mathClient\obj\Debug\mathClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Richard\source\repos\mathClient\obj\Debug\mathClient.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\mathClient\obj\Debug\mathClient.exe
+C:\Users\Richard\source\repos\mathClient\obj\Debug\mathClient.pdb

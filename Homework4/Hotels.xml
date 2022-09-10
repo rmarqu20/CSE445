@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Hotels>
+	<Hotel Stars="****">
+		<Name>The Wigwam</Name>
+		<Contact>
+			<Phone>8669766894</Phone>
+			<Email>wigwaminfo@wigwamarizona.com</Email>
+		</Contact>
+		<Address>
+			<Number>300</Number>
+			<Street>E Wigwam Blvd</Street>
+			<City>Litchfield Park</City>
+			<Zip>85340</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Stars="***">
+		<Name>Hilton Garden Inn Phoenix Avondale</Name>
+		<Contact>
+			<Phone>6238823351</Phone>
+			<Email>HiltonPR@hilton.com</Email>
+		</Contact>
+		<Address BusLines ="69, 420">
+			<Number>11460</Number>
+			<Street>W Hilton Way</Street>
+			<City>Avondale</City>
+			<Zip>85323</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Stars="***">
+		<Name>ScottsdaleVilla Mirage by Diamond Resorts</Name>
+		<Contact>
+			<Phone>4804734000</Phone>
+			<Email>Groups@diamondresorts.com</Email>
+		</Contact>
+		<Address>
+			<Number>7887</Number>
+			<Street>E Princess Blvd</Street>
+			<City>Scottsdale</City>
+			<Zip>85255</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Stars="***">
+		<Name>Sedona Summit Resort by Diamond Resorts</Name>
+		<Contact>
+			<Phone>9282043100</Phone>
+			<Email>hotel.reservations@diamondresorts.com</Email>
+		</Contact>
+		<Address>
+			<Number>4055</Number>
+			<Street>Navoti Dr</Street>
+			<City>Sedona</City>
+			<Zip>86336</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Stars="*****">
+		<Name>The Phoenician, a Luxury Collection Resort</Name>
+		<Contact>
+			<Phone>4809418200</Phone>
+			<Email>phoenician.reservations@luxaryresorts.com</Email>
+		</Contact>
+		<Address>
+			<Number>6000 </Number>
+			<Street>E Camelback Rd</Street>
+			<City>Scottsdale</City>
+			<Zip>85251</Zip>
+		</Address>
+	</Hotel>
+</Hotels>

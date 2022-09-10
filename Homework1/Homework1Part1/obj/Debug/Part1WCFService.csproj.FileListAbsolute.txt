@@ -1,0 +1,7 @@
+C:\Users\Richard\source\repos\Homework1Part1\bin\Homework1Part1.dll.config
+C:\Users\Richard\source\repos\Homework1Part1\bin\Homework1Part1.dll
+C:\Users\Richard\source\repos\Homework1Part1\bin\Homework1Part1.pdb
+C:\Users\Richard\source\repos\Homework1Part1\obj\Debug\Part1WCFService.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\Homework1Part1\obj\Debug\Part1WCFService.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\Homework1Part1\obj\Debug\Homework1Part1.dll
+C:\Users\Richard\source\repos\Homework1Part1\obj\Debug\Homework1Part1.pdb
